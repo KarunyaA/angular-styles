@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+
+:host(.font-italic) {
+  font-style: italic;
+}
+
+:host(.font-bold) {
+  font-weight: bold
+  }
